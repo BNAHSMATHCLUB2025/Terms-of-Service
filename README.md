@@ -17,7 +17,7 @@ The data collected may include:
 - Comments, reactions, and shares on public Facebook posts.
 - Facebook user ID associated with the interactions.
 
-For more details on how your data is handled, please review our [Privacy Policy](https://yourusername.github.io/facebook-tracker/privacy-policy).
+For more details on how your data is handled, please review our [Privacy Policy]([https://yourusername.github.io/facebook-tracker/privacy-policy](https://github.com/BNAHSMATHCLUB2025/Privacy-Policy)).
 
 ## 4. Third-Party Services
 The App may use third-party services, including the **Facebook Graph API**, to access and collect data. These third-party services may have their own terms of service and privacy policies. By using the App, you agree to comply with the terms of service of any third-party services.
