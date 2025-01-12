@@ -17,7 +17,7 @@ The data collected may include:
 - Comments, reactions, and shares on public Facebook posts.
 - Facebook user ID associated with the interactions.
 
-For more details on how your data is handled, please review our [Privacy Policy]([https://yourusername.github.io/facebook-tracker/privacy-policy](https://github.com/BNAHSMATHCLUB2025/Privacy-Policy)).
+For more details on how your data is handled, please review our [Privacy Policy](https://github.com/BNAHSMATHCLUB2025/Privacy-Policy).
 
 ## 4. Third-Party Services
 The App may use third-party services, including the **Facebook Graph API**, to access and collect data. These third-party services may have their own terms of service and privacy policies. By using the App, you agree to comply with the terms of service of any third-party services.
@@ -42,6 +42,6 @@ We may update these Terms of Service at any time. When we do, we will post the u
 
 ## 10. Contact Information
 If you have any questions or concerns regarding these Terms of Service, please contact us at:  
-**Email**: [your-email@example.com]  
-**GitHub Repository**: [Your GitHub Repo URL]
+**Email**: BalagtasNAHSMathClub2025@gmail.com
+
 
